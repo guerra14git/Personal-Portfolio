@@ -104,7 +104,7 @@ function Projects() {
               <div className="mb-6 w-full border-t border-[#334155]/30"></div>
 
               <button className="w-full rounded-xl border border-cyan-500/50 py-1.5 text-sm font-medium text-cyan-400 transition hover:bg-cyan-500/20 hover:text-cyan-300">
-                DOWNLOAD CV
+                DOWNLOAD CV!
               </button>
             </div>
           </div>
