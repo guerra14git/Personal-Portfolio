@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         cyber: {
-          black: '#ffffff', // Background
+          black: '#0a0e17', // Background
           gray: '#94A3B8',  // Secundary text
           white: '#ffffff', // Primary text
           accent: '#0ea5e9', // Buttons and highlights
